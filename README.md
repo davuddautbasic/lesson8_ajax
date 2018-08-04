@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+August 4, 2018
 
 ### Student Name:  
-(First and Last Name)
+Davud Dautbasic
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this assignment we used an API to display information.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://davuddautbasic.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned how to use placeholders.
+2. I learned how to create an API and add it to a program.
+3. I learned about the ajax function.
